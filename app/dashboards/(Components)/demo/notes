@@ -1,0 +1,13 @@
+so to recap the features that i discovered
+
+
+coulmn based filteration , filter the output based on specific conditon  in that coulmn
+
+global filteration , using a search bar to filter the oytput based on a specific value , omits the need of makeing a state for each coumn(use fizzy filtering with ranking)
+
+faceting , for coulmn filteration based on values of that column
+
+sorting => sorts the output based on a specific coulmn
+
+
+column visibility , pagination
